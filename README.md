@@ -1,1 +1,1 @@
-![homepage](https://raw.githubusercontent.com/contatofnog/homepage/master/screen.png)
+![homepage](https://i.imgur.com/nvSO7Ww.png)
