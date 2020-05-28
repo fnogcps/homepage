@@ -13,7 +13,7 @@ body {
 
 .container {
     width: 100%;
-    height: 95vh;
+    height: 85vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -99,7 +99,7 @@ body {
 .bookmark-title {
     padding-top: 20px;
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: #272727;
     margin: 0em 0em .35em 0em;
